@@ -21,7 +21,9 @@ To get the prediction errors of global frechet regression, please follow the ste
 -------------
 
 Step 1: Download Code_for_simulation1_global_frechet.R
+
 Step 2: Run Code_for_simulation1_global_frechet.R to get the result for (n,d)=(50,2)
+
 Step 3: Change n in Code_for_simulation1_global_frechet.R to get the results for different n
 
 -------------
@@ -29,7 +31,9 @@ To get the prediction errors of local constant frechet regression, please follow
 -------------
 
 Step 1: Download Code_for_simulation1_local_frechet.R
+
 Step 2: Run Code_for_simulation1_local_frechet.R to get the result for (n,d)=(50,2)
+
 Step 3: Change n in Code_for_simulation1_local_frechet.R to get the results for different n
 
 -------------

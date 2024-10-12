@@ -40,6 +40,7 @@ Simulation 2
 --
 
 To perform the proposed method, please follow the steps:
+--
 
 Step 1: Download SBF_vector_valued_Euclidean_new_grid_PL.dll, SBF_vector_valued_Euclidean_new_grid_PL_tilde_out.dll, CBS_vector_valued_Euclidean_new_grid_PL.dll, Code_for_simulation2.R, Code_for_simulation2_proposed.R and Code_for_simulation2_proposed_testing.R
 

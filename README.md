@@ -36,7 +36,7 @@ Step 2: Run Code_for_simulation1_local_frechet.R to get the result for (n,d)=(50
 
 Step 3: Change n in Code_for_simulation1_local_frechet.R to get the results for different n
 
-Simulation 2
+Simulation 2:
 --
 
 To perform the proposed method, please follow the steps:

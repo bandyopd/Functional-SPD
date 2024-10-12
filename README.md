@@ -58,7 +58,7 @@ Step 1: Download
 
 Step 2: Open Code_for_simulation2.R and change the addresses of SBF_vector_valued_Euclidean_new_grid_PL.dll, SBF_vector_valued_Euclidean_new_grid_PL_tilde_out.dll and CBS_vector_valued_Euclidean_new_grid_PL.dll there
 
-Step 3: Open Code_for_simulation2_proposed.R and Code_for_simulation2_proposed_testing.R, and change the address of Code_for_simulation2.R there
+Step 3: Open Code_for_simulation2_proposed.R and Code_for_simulation2_proposed_testing.R, and change the addresses of Code_for_simulation2.R there
 
 Step 4: Run Code_for_simulation2_proposed.R to get the prediction result for (n,d,p)=(50,2,1)
 

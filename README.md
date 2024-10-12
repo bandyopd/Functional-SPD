@@ -7,7 +7,12 @@ Simulation 1:
 To get the prediction errors of proposed method, please follow the steps:
 --
 
-Step 1: Download SBF_vector_valued_L2_new_grid.dll, CBS_vector_valued_L2_new_grid.dll, Code_for_simulation1.R and Code_for_simulation1_proposed.R
+Step 1: Download 
+
+- SBF_vector_valued_L2_new_grid.dll
+- CBS_vector_valued_L2_new_grid.dll
+- Code_for_simulation1.R
+- Code_for_simulation1_proposed.R
 
 Step 2: Set the addresses of SBF_vector_valued_L2_new_grid.dll and CBS_vector_valued_L2_new_grid.dll in Code_for_simulation1.R 
 
@@ -42,7 +47,13 @@ Simulation 2:
 To perform the proposed method, please follow the steps:
 --
 
-Step 1: Download SBF_vector_valued_Euclidean_new_grid_PL.dll, SBF_vector_valued_Euclidean_new_grid_PL_tilde_out.dll, CBS_vector_valued_Euclidean_new_grid_PL.dll, Code_for_simulation2.R, Code_for_simulation2_proposed.R and Code_for_simulation2_proposed_testing.R
+Step 1: Download 
+
+- SBF_vector_valued_Euclidean_new_grid_PL.dll
+- SBF_vector_valued_Euclidean_new_grid_PL_tilde_out.dll
+- CBS_vector_valued_Euclidean_new_grid_PL.dll, Code_for_simulation2.R
+- Code_for_simulation2_proposed.R
+- Code_for_simulation2_proposed_testing.R
 
 Step 2: Set the addresses of SBF_vector_valued_Euclidean_new_grid_PL.dll, SBF_vector_valued_Euclidean_new_grid_PL_tilde_out.dll and CBS_vector_valued_Euclidean_new_grid_PL.dll in Code_for_simulation2.R
 

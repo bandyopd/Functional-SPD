@@ -2,13 +2,12 @@
 
 R code to conduct simulation studies corresponding to small (n,d,p) from Jeong and Bandyopadhyay (2024+) are made available. One can easily modify the code for larger (n,d,p). The fortran .dll files were created from some fortran codes that implement the SBF methods. The .dll files will be later integrated within a forthcomong R package. 
 
-
+-------------
 Simulation 1:
 --
 
 To derive the prediction errors of the proposed method, please follow the steps:
 --
-
 Step 1: Download 
 
 - SBF_vector_valued_L2_new_grid.dll
@@ -34,7 +33,7 @@ Step 2: Run Code_for_simulation1_global_frechet.R to get the result for (n,d)=(5
 
 Step 3: Change n in Code_for_simulation1_global_frechet.R to get the results for varying n
 
--------------
+
 To derive the prediction errors of local constant Fréchet regression, please follow the steps:
 --
 
@@ -44,7 +43,7 @@ Step 2: Run Code_for_simulation1_local_frechet.R to get the result for (n,d)=(50
 
 Step 3: Change n in Code_for_simulation1_local_frechet.R to get the results for varying n
 
-
+-------------
 Simulation 2:
 --
 

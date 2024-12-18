@@ -1,6 +1,6 @@
 ## Description
 
-R code for simulation studies for small (n,d,p) can be found here. One can easily modify the codes for larger (n,d,p). The fortran .dll files were created from some fortran codes that implement the SBF methods. The .dll files will later integrated within a forthcomong R package. 
+R code to conduct simulation studies corresponding to small (n,d,p) from Jeong and Bandyopadhyay (2024+) are made available. One can easily modify the code for larger (n,d,p). The fortran .dll files were created from some fortran codes that implement the SBF methods. The .dll files will later integrated within a forthcomong R package. 
 
 
 Simulation 1:
@@ -76,3 +76,7 @@ Step 1: Download Code_for_simulation2_global_frechet.R
 Step 2: Run Code_for_simulation2_global_frechet.R to get the result for (n,d,p)=(50,2,1)
 
 Step 3: Change n in Code_for_simulation2_global_frechet.R to get the results for different n
+
+## Reference: 
+
+Jeon JM and Bandyopadhyay D. (2024+). Structured nonparametric regression for functional DTI data, (Under Review). 

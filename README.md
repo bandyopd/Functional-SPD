@@ -1,4 +1,6 @@
-R codes for simulation studies with small (n,d,p) can be found here. Explnations of codes are given in the codes. One can easily modify the codes for larger (n,d,p). The fortran dll files were created from some fortran codes that implement the SBF methods. Please understand that the fortran codes cannot be distributed until I creat an R package.
+## Description
+
+R code for simulation studies for small (n,d,p) can be found here. One can easily modify the codes for larger (n,d,p). The fortran .dll files were created from some fortran codes that implement the SBF methods. The .dll files will later integrated within a forthcomong R package. 
 
 
 Simulation 1:

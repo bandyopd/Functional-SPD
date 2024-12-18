@@ -1,6 +1,6 @@
 ## Description
 
-R code to conduct simulation studies corresponding to small (n,d,p) from Jeong and Bandyopadhyay (2024+) are made available. One can easily modify the code for larger (n,d,p). The fortran .dll files were created from some fortran codes that implement the SBF methods. The .dll files will later integrated within a forthcomong R package. 
+R code to conduct simulation studies corresponding to small (n,d,p) from Jeong and Bandyopadhyay (2024+) are made available. One can easily modify the code for larger (n,d,p). The fortran .dll files were created from some fortran codes that implement the SBF methods. The .dll files will be later integrated within a forthcomong R package. 
 
 
 Simulation 1:
